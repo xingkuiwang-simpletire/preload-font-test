@@ -14,7 +14,7 @@ class MyDocument extends Document {
           />
           <link
             rel="preload"
-            href="/static/fonts/CircularStd-BookItalic.woff2"
+            href="/static/fonts/CircularStd-Bold.woff2"
             as="font"
             type="font/woff2"
             crossOrigin="anonymous"
